@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EA9D9A222AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A212AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift */; };
+		EA9D9A242AA467B500DEC20B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A232AA467B500DEC20B /* ContentView.swift */; };
+		EA9D9A262AA467BB00DEC20B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA9D9A252AA467BB00DEC20B /* Assets.xcassets */; };
+		EA9D9A292AA467BB00DEC20B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA9D9A282AA467BB00DEC20B /* Preview Assets.xcassets */; };
+		EA9D9A332AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A322AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift */; };
+		EA9D9A3D2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A3C2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift */; };
+		EA9D9A3F2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A3E2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EA9D9A2F2AA467BB00DEC20B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA9D9A162AA467B500DEC20B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA9D9A1D2AA467B500DEC20B;
+			remoteInfo = "Ma collection de Pop Harry Potter";
+		};
+		EA9D9A392AA467BB00DEC20B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA9D9A162AA467B500DEC20B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA9D9A1D2AA467B500DEC20B;
+			remoteInfo = "Ma collection de Pop Harry Potter";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EA9D9A1E2AA467B500DEC20B /* Ma collection de Pop Harry Potter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ma collection de Pop Harry Potter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA9D9A212AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterApp.swift; sourceTree = "<group>"; };
+		EA9D9A232AA467B500DEC20B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EA9D9A252AA467BB00DEC20B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EA9D9A282AA467BB00DEC20B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EA9D9A2E2AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ma collection de Pop Harry PotterTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA9D9A322AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterTests.swift; sourceTree = "<group>"; };
+		EA9D9A382AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ma collection de Pop Harry PotterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA9D9A3C2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterUITests.swift; sourceTree = "<group>"; };
+		EA9D9A3E2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EA9D9A1B2AA467B500DEC20B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A2B2AA467BB00DEC20B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A352AA467BB00DEC20B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EA9D9A152AA467B500DEC20B = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A202AA467B500DEC20B /* Ma collection de Pop Harry Potter */,
+				EA9D9A312AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests */,
+				EA9D9A3B2AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests */,
+				EA9D9A1F2AA467B500DEC20B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EA9D9A1F2AA467B500DEC20B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A1E2AA467B500DEC20B /* Ma collection de Pop Harry Potter.app */,
+				EA9D9A2E2AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests.xctest */,
+				EA9D9A382AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EA9D9A202AA467B500DEC20B /* Ma collection de Pop Harry Potter */ = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A212AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift */,
+				EA9D9A232AA467B500DEC20B /* ContentView.swift */,
+				EA9D9A252AA467BB00DEC20B /* Assets.xcassets */,
+				EA9D9A272AA467BB00DEC20B /* Preview Content */,
+			);
+			path = "Ma collection de Pop Harry Potter";
+			sourceTree = "<group>";
+		};
+		EA9D9A272AA467BB00DEC20B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A282AA467BB00DEC20B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EA9D9A312AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests */ = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A322AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift */,
+			);
+			path = "Ma collection de Pop Harry PotterTests";
+			sourceTree = "<group>";
+		};
+		EA9D9A3B2AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EA9D9A3C2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift */,
+				EA9D9A3E2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift */,
+			);
+			path = "Ma collection de Pop Harry PotterUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EA9D9A1D2AA467B500DEC20B /* Ma collection de Pop Harry Potter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA9D9A422AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry Potter" */;
+			buildPhases = (
+				EA9D9A1A2AA467B500DEC20B /* Sources */,
+				EA9D9A1B2AA467B500DEC20B /* Frameworks */,
+				EA9D9A1C2AA467B500DEC20B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ma collection de Pop Harry Potter";
+			productName = "Ma collection de Pop Harry Potter";
+			productReference = EA9D9A1E2AA467B500DEC20B /* Ma collection de Pop Harry Potter.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EA9D9A2D2AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA9D9A452AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry PotterTests" */;
+			buildPhases = (
+				EA9D9A2A2AA467BB00DEC20B /* Sources */,
+				EA9D9A2B2AA467BB00DEC20B /* Frameworks */,
+				EA9D9A2C2AA467BB00DEC20B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA9D9A302AA467BB00DEC20B /* PBXTargetDependency */,
+			);
+			name = "Ma collection de Pop Harry PotterTests";
+			productName = "Ma collection de Pop Harry PotterTests";
+			productReference = EA9D9A2E2AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EA9D9A372AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA9D9A482AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry PotterUITests" */;
+			buildPhases = (
+				EA9D9A342AA467BB00DEC20B /* Sources */,
+				EA9D9A352AA467BB00DEC20B /* Frameworks */,
+				EA9D9A362AA467BB00DEC20B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA9D9A3A2AA467BB00DEC20B /* PBXTargetDependency */,
+			);
+			name = "Ma collection de Pop Harry PotterUITests";
+			productName = "Ma collection de Pop Harry PotterUITests";
+			productReference = EA9D9A382AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EA9D9A162AA467B500DEC20B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					EA9D9A1D2AA467B500DEC20B = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					EA9D9A2D2AA467BB00DEC20B = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = EA9D9A1D2AA467B500DEC20B;
+					};
+					EA9D9A372AA467BB00DEC20B = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = EA9D9A1D2AA467B500DEC20B;
+					};
+				};
+			};
+			buildConfigurationList = EA9D9A192AA467B500DEC20B /* Build configuration list for PBXProject "Ma collection de Pop Harry Potter" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EA9D9A152AA467B500DEC20B;
+			productRefGroup = EA9D9A1F2AA467B500DEC20B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EA9D9A1D2AA467B500DEC20B /* Ma collection de Pop Harry Potter */,
+				EA9D9A2D2AA467BB00DEC20B /* Ma collection de Pop Harry PotterTests */,
+				EA9D9A372AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EA9D9A1C2AA467B500DEC20B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA9D9A292AA467BB00DEC20B /* Preview Assets.xcassets in Resources */,
+				EA9D9A262AA467BB00DEC20B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A2C2AA467BB00DEC20B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A362AA467BB00DEC20B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EA9D9A1A2AA467B500DEC20B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA9D9A242AA467B500DEC20B /* ContentView.swift in Sources */,
+				EA9D9A222AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A2A2AA467BB00DEC20B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA9D9A332AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA9D9A342AA467BB00DEC20B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA9D9A3F2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift in Sources */,
+				EA9D9A3D2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EA9D9A302AA467BB00DEC20B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA9D9A1D2AA467B500DEC20B /* Ma collection de Pop Harry Potter */;
+			targetProxy = EA9D9A2F2AA467BB00DEC20B /* PBXContainerItemProxy */;
+		};
+		EA9D9A3A2AA467BB00DEC20B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA9D9A1D2AA467B500DEC20B /* Ma collection de Pop Harry Potter */;
+			targetProxy = EA9D9A392AA467BB00DEC20B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EA9D9A402AA467BB00DEC20B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EA9D9A412AA467BB00DEC20B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EA9D9A432AA467BB00DEC20B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Ma collection de Pop Harry Potter/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-Potter";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EA9D9A442AA467BB00DEC20B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Ma collection de Pop Harry Potter/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-Potter";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EA9D9A462AA467BB00DEC20B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-PotterTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ma collection de Pop Harry Potter.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Ma collection de Pop Harry Potter";
+			};
+			name = Debug;
+		};
+		EA9D9A472AA467BB00DEC20B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-PotterTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ma collection de Pop Harry Potter.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Ma collection de Pop Harry Potter";
+			};
+			name = Release;
+		};
+		EA9D9A492AA467BB00DEC20B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-PotterUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Ma collection de Pop Harry Potter";
+			};
+			name = Debug;
+		};
+		EA9D9A4A2AA467BB00DEC20B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "MehdyHtr.Ma-collection-de-Pop-Harry-PotterUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Ma collection de Pop Harry Potter";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA9D9A192AA467B500DEC20B /* Build configuration list for PBXProject "Ma collection de Pop Harry Potter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA9D9A402AA467BB00DEC20B /* Debug */,
+				EA9D9A412AA467BB00DEC20B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA9D9A422AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry Potter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA9D9A432AA467BB00DEC20B /* Debug */,
+				EA9D9A442AA467BB00DEC20B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA9D9A452AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry PotterTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA9D9A462AA467BB00DEC20B /* Debug */,
+				EA9D9A472AA467BB00DEC20B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA9D9A482AA467BB00DEC20B /* Build configuration list for PBXNativeTarget "Ma collection de Pop Harry PotterUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA9D9A492AA467BB00DEC20B /* Debug */,
+				EA9D9A4A2AA467BB00DEC20B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA9D9A162AA467B500DEC20B /* Project object */;
+}
