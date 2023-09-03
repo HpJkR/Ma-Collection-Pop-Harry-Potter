@@ -14,6 +14,20 @@
 		EA9D9A332AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A322AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift */; };
 		EA9D9A3D2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A3C2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift */; };
 		EA9D9A3F2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A3E2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift */; };
+		EA9D9A4C2AA46FB500DEC20B /* FigurinesAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4B2AA46FB500DEC20B /* FigurinesAcquisesView.swift */; };
+		EA9D9A4D2AA46FB600DEC20B /* FigurinesAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4B2AA46FB500DEC20B /* FigurinesAcquisesView.swift */; };
+		EA9D9A4E2AA46FB600DEC20B /* FigurinesAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4B2AA46FB500DEC20B /* FigurinesAcquisesView.swift */; };
+		EA9D9A502AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4F2AA4705500DEC20B /* FigurinesNonAcquisesView.swift */; };
+		EA9D9A512AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4F2AA4705500DEC20B /* FigurinesNonAcquisesView.swift */; };
+		EA9D9A522AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A4F2AA4705500DEC20B /* FigurinesNonAcquisesView.swift */; };
+		EA9D9A542AA472B900DEC20B /* FigurineModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A532AA472B900DEC20B /* FigurineModel.swift */; };
+		EA9D9A552AA472B900DEC20B /* FigurineModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A532AA472B900DEC20B /* FigurineModel.swift */; };
+		EA9D9A562AA472B900DEC20B /* FigurineModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A532AA472B900DEC20B /* FigurineModel.swift */; };
+		EA9D9A582AA4750700DEC20B /* ConfirmMoveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A572AA4750700DEC20B /* ConfirmMoveView.swift */; };
+		EA9D9A592AA4750700DEC20B /* ConfirmMoveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A572AA4750700DEC20B /* ConfirmMoveView.swift */; };
+		EA9D9A5A2AA4750700DEC20B /* ConfirmMoveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D9A572AA4750700DEC20B /* ConfirmMoveView.swift */; };
+		EA9D9A5D2AA4A49E00DEC20B /* URLImage in Frameworks */ = {isa = PBXBuildFile; productRef = EA9D9A5C2AA4A49E00DEC20B /* URLImage */; };
+		EA9D9A5F2AA4A49E00DEC20B /* URLImageStore in Frameworks */ = {isa = PBXBuildFile; productRef = EA9D9A5E2AA4A49E00DEC20B /* URLImageStore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,10 @@
 		EA9D9A382AA467BB00DEC20B /* Ma collection de Pop Harry PotterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ma collection de Pop Harry PotterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA9D9A3C2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterUITests.swift; sourceTree = "<group>"; };
 		EA9D9A3E2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EA9D9A4B2AA46FB500DEC20B /* FigurinesAcquisesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigurinesAcquisesView.swift; sourceTree = "<group>"; };
+		EA9D9A4F2AA4705500DEC20B /* FigurinesNonAcquisesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigurinesNonAcquisesView.swift; sourceTree = "<group>"; };
+		EA9D9A532AA472B900DEC20B /* FigurineModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigurineModel.swift; sourceTree = "<group>"; };
+		EA9D9A572AA4750700DEC20B /* ConfirmMoveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmMoveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +69,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA9D9A5F2AA4A49E00DEC20B /* URLImageStore in Frameworks */,
+				EA9D9A5D2AA4A49E00DEC20B /* URLImage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,6 +116,10 @@
 			children = (
 				EA9D9A212AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift */,
 				EA9D9A232AA467B500DEC20B /* ContentView.swift */,
+				EA9D9A4B2AA46FB500DEC20B /* FigurinesAcquisesView.swift */,
+				EA9D9A4F2AA4705500DEC20B /* FigurinesNonAcquisesView.swift */,
+				EA9D9A532AA472B900DEC20B /* FigurineModel.swift */,
+				EA9D9A572AA4750700DEC20B /* ConfirmMoveView.swift */,
 				EA9D9A252AA467BB00DEC20B /* Assets.xcassets */,
 				EA9D9A272AA467BB00DEC20B /* Preview Content */,
 			);
@@ -143,6 +167,10 @@
 			dependencies = (
 			);
 			name = "Ma collection de Pop Harry Potter";
+			packageProductDependencies = (
+				EA9D9A5C2AA4A49E00DEC20B /* URLImage */,
+				EA9D9A5E2AA4A49E00DEC20B /* URLImageStore */,
+			);
 			productName = "Ma collection de Pop Harry Potter";
 			productReference = EA9D9A1E2AA467B500DEC20B /* Ma collection de Pop Harry Potter.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +243,9 @@
 				Base,
 			);
 			mainGroup = EA9D9A152AA467B500DEC20B;
+			packageReferences = (
+				EA9D9A5B2AA4A49E00DEC20B /* XCRemoteSwiftPackageReference "url-image" */,
+			);
 			productRefGroup = EA9D9A1F2AA467B500DEC20B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -258,7 +289,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA9D9A242AA467B500DEC20B /* ContentView.swift in Sources */,
+				EA9D9A502AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */,
 				EA9D9A222AA467B500DEC20B /* Ma_collection_de_Pop_Harry_PotterApp.swift in Sources */,
+				EA9D9A4C2AA46FB500DEC20B /* FigurinesAcquisesView.swift in Sources */,
+				EA9D9A582AA4750700DEC20B /* ConfirmMoveView.swift in Sources */,
+				EA9D9A542AA472B900DEC20B /* FigurineModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +301,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA9D9A552AA472B900DEC20B /* FigurineModel.swift in Sources */,
+				EA9D9A512AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */,
 				EA9D9A332AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterTests.swift in Sources */,
+				EA9D9A4D2AA46FB600DEC20B /* FigurinesAcquisesView.swift in Sources */,
+				EA9D9A592AA4750700DEC20B /* ConfirmMoveView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +314,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA9D9A3F2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITestsLaunchTests.swift in Sources */,
+				EA9D9A522AA4705500DEC20B /* FigurinesNonAcquisesView.swift in Sources */,
 				EA9D9A3D2AA467BB00DEC20B /* Ma_collection_de_Pop_Harry_PotterUITests.swift in Sources */,
+				EA9D9A4E2AA46FB600DEC20B /* FigurinesAcquisesView.swift in Sources */,
+				EA9D9A5A2AA4750700DEC20B /* ConfirmMoveView.swift in Sources */,
+				EA9D9A562AA472B900DEC20B /* FigurineModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -577,6 +620,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EA9D9A5B2AA4A49E00DEC20B /* XCRemoteSwiftPackageReference "url-image" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dmytro-anokhin/url-image.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EA9D9A5C2AA4A49E00DEC20B /* URLImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EA9D9A5B2AA4A49E00DEC20B /* XCRemoteSwiftPackageReference "url-image" */;
+			productName = URLImage;
+		};
+		EA9D9A5E2AA4A49E00DEC20B /* URLImageStore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EA9D9A5B2AA4A49E00DEC20B /* XCRemoteSwiftPackageReference "url-image" */;
+			productName = URLImageStore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EA9D9A162AA467B500DEC20B /* Project object */;
 }
