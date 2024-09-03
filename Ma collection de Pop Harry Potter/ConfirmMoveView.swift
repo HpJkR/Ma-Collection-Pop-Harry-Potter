@@ -20,7 +20,7 @@ struct ConfirmMoveView: View {
             HStack {
                 Button("Oui") {
                     if let figurine = figurine, let index = figurines.firstIndex(where: { $0.id == figurine.id }) {
-                        figurines[index].acquired.toggle() // Inversez la valeur acquired
+                        figurines[index].acquired.toggle()
                         isShowing = false
                     }
                 }
