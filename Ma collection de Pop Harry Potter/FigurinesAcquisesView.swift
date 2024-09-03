@@ -18,7 +18,7 @@ struct FigurinesAcquisesView: View {
                     }
                     Text(figurine.name)
                                             if figurine.acquired {
-                                                Text("✅") // Ajoutez ici votre emoji d'acquisition
+                                                Text("✅")
                                             }
                                         }
                         .onTapGesture {
