@@ -1,16 +1,15 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var figurines: [Figurine] // Utilisez @State pour surveiller les changements
+    @State var figurines: [Figurine]
 
     init() {
-        // Chargez les figurines depuis votre modèle de données
         _figurines = State(initialValue: figurinesData)
     }
 
     var body: some View {
         GeometryReader { geometry in
-            Color.gray // Couleur d'arrière-plan gris anthracite
+            Color.gray
                 .ignoresSafeArea()
 
             TabView {
