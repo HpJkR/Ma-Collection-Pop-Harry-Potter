@@ -16,8 +16,6 @@ struct FigurinesNonAcquisesView: View {
                     }
                     Text(figurine.name)
                         .onTapGesture {
-                            // Lorsque l'utilisateur clique sur une figurine non acquise,
-                            // marquez-la comme acquise en mettant à jour acquired à true
                             if let index = figurines.firstIndex(where: { $0.id == figurine.id }) {
                                 figurines[index].acquired = true
                             }
